@@ -18,3 +18,7 @@ Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetu
 
 * Chrome extension API [JavaScript APIs](https://developer.chrome.com/extensions/api_index/)
 * Chrome extension'ite näited [Sample Extensions](https://developer.chrome.com/extensions/samples/)
+
+## Rakendus
+
+1. Rakendusel on popupis 3 nuppu, mis avavad eelnevalt määratud tabide kogumikud.
